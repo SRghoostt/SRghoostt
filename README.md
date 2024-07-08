@@ -2,6 +2,7 @@
 - 😉 Me chamo Arthur Pereira mais conhecido como srghoost, tenho 17 anos e sou Desenvolvedor iniciante.
 - 📚 Aluno Alura, a maior escola online de tecnologia do Brasil
 - 🚧 Working Real Development to Fivem
+- 🏢 Se você está procurando alguém para colaborar em um projeto pode chamar!
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=SRghoost&show_icons=true&theme=dark"
