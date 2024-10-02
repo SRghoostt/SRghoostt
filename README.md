@@ -1,7 +1,7 @@
 ## 👋🏻 Olá
 - 😉 Me chamo Arthur Pereira mais conhecido como srghoost, tenho 17 anos e sou Desenvolvedor Front end.
 - 📚 Aluno Alura, a maior escola online de tecnologia do Brasil
-- 🚧 Working Real Development to Fivem
+- 🚧 Working Hyze Code to Fivem
 - 🏢 Se você está procurando alguém para colaborar em um projeto pode chamar!
 
 
