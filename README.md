@@ -1,8 +1,4 @@
-## 👋🏻 Olá
-- 😉 Me chamo Arthur Pereira mais conhecido como srghoost, tenho 17 anos e sou Desenvolvedor Front end.
-- 📚 Aluno Alura, a maior escola online de tecnologia do Brasil
-- 🚧 Working Hyze Code to Fivem
-- 🏢 Se você está procurando alguém para colaborar em um projeto pode chamar!
+🇧🇷 🇺🇸 Hi, I'm Pereira, better known as Sr. Ghost. I'm 18 years old. I'm a UI designer.
 
 
 <div style="display: inline_block"><br>
