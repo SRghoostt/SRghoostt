@@ -1,4 +1,4 @@
-🇧🇷 🇺🇸 Hi, I'm Pereira, better known as Sr. Ghost. I'm 18 years old. I'm a UI designer.
+🇧🇷 🇺🇸 Hi, I'm Pereira, better known as Sr. Ghost. I'm 17 years old. I'm a UI designer.
 
 
 <div style="display: inline_block"><br>
